@@ -1,1 +1,1 @@
-reboot master &i integration commit
+reboot master & integration commit & integration commit
